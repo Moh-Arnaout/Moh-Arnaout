@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Senior+Flutter+Engineer+%F0%9F%9A%80;Cross-Platform+Mobile+Developer+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Award-Winning+Software+Developer+%F0%9F%8F%86;UI%2FUX+Design+Specialist+%F0%9F%8E%A8" alt="Professional roles typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Engineer+%F0%9F%9A%80;Cross-Platform+Mobile+Developer+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Award-Winning+Software+Developer+%F0%9F%8F%86;UI%2FUX+Design+Specialist+%F0%9F%8E%A8" alt="Professional roles typing animation" />
 </p>
 
 ---
