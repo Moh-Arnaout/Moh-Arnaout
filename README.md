@@ -14,11 +14,11 @@
 <div align="center">
 
 **Mohammad Rami Arnaout**  
-*Flutter Engineer & Mobile Solutions Architect*
+*Mobile Engineer & Mobile Solutions Architect*
 
 📍 **Location:** Amman, Jordan 🇯🇴  
 🎓 **Education:** B.Sc Computer Engineering, University of Jordan  
-📅 **Expected Graduation:** July 2026 | **GPA:** Very Good  
+📅 **Graduation:** June 2026 | **GPA:** Very Good  
 💼 **Experience:** Flutter Developer Intern @ Awael Technologies (Summer 2025)  
 🏢 **Specialization:** Cross-Platform Mobile Development | AI Integration | UI/UX Design  
 
